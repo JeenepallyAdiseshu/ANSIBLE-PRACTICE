@@ -1,0 +1,6 @@
+package com.example.expense_backend.repository;
+
+public class ExpenseRepository {
+	
+
+}

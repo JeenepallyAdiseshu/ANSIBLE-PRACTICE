@@ -1,0 +1,5 @@
+package com.example.expense_backend.controller;
+
+public class ExpenseController {
+
+}
