@@ -1,3 +1,2 @@
-2025/10/17-19:25:32.108 b4ac Reusing MANIFEST D:\INSEMLAB-PREP\ExpenseTracker\expense-backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Session Storage/MANIFEST-000001
-2025/10/17-19:25:32.110 b4ac Recovering log #3
-2025/10/17-19:25:32.113 b4ac Reusing old log D:\INSEMLAB-PREP\ExpenseTracker\expense-backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Session Storage/000003.log 
+2025/11/07-11:59:28.178 180a4 Creating DB D:\INSEMLAB-PREP\Lab15\ExpenseTracker-Docker-jar\expense-backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Session Storage since it was missing.
+2025/11/07-11:59:28.206 180a4 Reusing MANIFEST D:\INSEMLAB-PREP\Lab15\ExpenseTracker-Docker-jar\expense-backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Session Storage/MANIFEST-000001

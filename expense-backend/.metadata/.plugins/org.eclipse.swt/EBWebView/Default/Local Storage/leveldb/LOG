@@ -1,3 +1,2 @@
-2025/10/17-19:25:30.751 b4ac Reusing MANIFEST D:\INSEMLAB-PREP\ExpenseTracker\expense-backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
-2025/10/17-19:25:30.759 b4ac Recovering log #3
-2025/10/17-19:25:30.761 b4ac Reusing old log D:\INSEMLAB-PREP\ExpenseTracker\expense-backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Local Storage\leveldb/000003.log 
+2025/11/07-11:59:27.118 180a4 Creating DB D:\INSEMLAB-PREP\Lab15\ExpenseTracker-Docker-jar\expense-backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Local Storage\leveldb since it was missing.
+2025/11/07-11:59:27.161 180a4 Reusing MANIFEST D:\INSEMLAB-PREP\Lab15\ExpenseTracker-Docker-jar\expense-backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001

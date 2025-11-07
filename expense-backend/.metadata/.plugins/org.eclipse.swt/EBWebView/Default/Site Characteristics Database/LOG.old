@@ -1,2 +1,5 @@
-2025/10/17-19:25:14.737 6abc Creating DB D:\INSEMLAB-PREP\ExpenseTracker\expense-backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Site Characteristics Database since it was missing.
-2025/10/17-19:25:14.746 6abc Reusing MANIFEST D:\INSEMLAB-PREP\ExpenseTracker\expense-backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Site Characteristics Database/MANIFEST-000001
+2025/11/07-11:59:26.857 175ac Log #3: 2 ops saved to Table #4 OK
+2025/11/07-11:59:26.865 175ac Archiving D:\INSEMLAB-PREP\Lab15\ExpenseTracker-Docker-jar\expense-backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Site Characteristics Database/000003.log: OK
+2025/11/07-11:59:26.865 175ac Table #4: 2 entries OK
+2025/11/07-11:59:26.868 175ac Archiving D:\INSEMLAB-PREP\Lab15\ExpenseTracker-Docker-jar\expense-backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Site Characteristics Database/MANIFEST-000001: OK
+2025/11/07-11:59:26.879 175ac **** Repaired leveldb D:\INSEMLAB-PREP\Lab15\ExpenseTracker-Docker-jar\expense-backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Site Characteristics Database; recovered 1 files; 191 bytes. Some data may have been lost. ****
